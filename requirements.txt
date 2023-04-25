@@ -3,3 +3,4 @@ networkx
 scipy
 qiskit
 numpy
+pylatexenc
